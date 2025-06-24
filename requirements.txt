@@ -1,0 +1,19 @@
+# LangChain Core
+langchain
+langchain-core
+
+#Langchain models
+langchain-huggingface
+transformers
+huggingface-hub
+
+#Environment Variable Management
+python-dotenv
+
+#Machine learning utilities
+numpy 
+scikit-learn
+sentence-transformers
+
+#UI framework 
+streamlit

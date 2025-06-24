@@ -2,9 +2,12 @@ from langchain_huggingface import ChatHuggingFace, HuggingFaceEndpoint
 from dotenv import load_dotenv
 from langchain_core.prompts import load_prompt
 import streamlit as st
+import os
 
 # Load environment variables
 load_dotenv()
+
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = st.secrets["HUGGINGFACEHUB_API_TOKEN"]
 
 # Initialize LLM
 llm = HuggingFaceEndpoint(

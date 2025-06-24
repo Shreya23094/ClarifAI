@@ -22,7 +22,7 @@ ClarifAI is an AI-powered web application that helps users easily understand com
 ## 🚀 Live Demo
 
 Try it out on Streamlit:  
-👉 [clarifai.streamlit.app](https://clarif-ai.streamlit.app)
+👉 [clarif-ai.streamlit.app](https://clarif-ai.streamlit.app)
 
 ---
 

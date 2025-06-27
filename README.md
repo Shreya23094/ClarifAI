@@ -3,7 +3,7 @@
 ClarifAI is an AI-powered web application that helps users easily understand complex research papers, concepts, or technical content in a personalized explanation style and length. Whether you're a beginner, a tech enthusiast, or a coder, ClarifAI simplifies knowledge delivery — your way.
 ---
 
-## ✨ Features
+## ✨ Features:
 
 - 📄 **Flexible Input Options**  
   Upload a PDF or type in your own content.
@@ -19,14 +19,14 @@ ClarifAI is an AI-powered web application that helps users easily understand com
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Demo:
 
 Try it out on Streamlit:  
 👉 [clarif-ai.streamlit.app](https://clarif-ai.streamlit.app)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack:
 
 | Tool             | Purpose                              |
 |------------------|--------------------------------------|
@@ -39,7 +39,7 @@ Try it out on Streamlit:
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure:
 
 ```bash
 clarifai/
